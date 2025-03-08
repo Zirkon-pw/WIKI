@@ -2,7 +2,7 @@
 title: Краткий гайд по GIT
 description: 
 published: true
-date: 2025-02-27T19:15:53.430Z
+date: 2025-02-27T19:15:55.749Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-27T18:13:51.738Z
