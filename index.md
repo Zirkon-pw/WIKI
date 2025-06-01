@@ -1,12 +1,3 @@
----
-title: Главная
-description: 
-published: true
-date: 2025-03-08T22:06:07.045Z
-tags: 
-editor: markdown
-dateCreated: 2025-02-27T17:21:03.031Z
----
 
 # Добро пожаловать в Wiki Zirkon!
 
